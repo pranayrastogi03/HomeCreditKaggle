@@ -1,4 +1,4 @@
-# HomeCreditKaggle
+# HomeCreditKaggle. https://www.kaggle.com/c/home-credit-default-risk - Data can be found here.
 
 1) Create a virtual environment using Python 3.6 and install packages pandas,matplotlib,sklearn,configparser.
 
